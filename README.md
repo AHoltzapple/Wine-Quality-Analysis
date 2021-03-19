@@ -54,4 +54,4 @@ This analysis makes use of the following python libraries:
 
 ## Analysis Summary:
 
-This analysis approaches the problem by using an ordinal regression method to predict the resulting quality rating based on the chemical inputs. The model resulted in an accuracy of 58%, with the most impactful features being volatile acidity, chlorides, sulphates, and alcohol as determined by their coefficients. Additional information and results are described in the analysis notebook.
+This analysis approaches the problem by using an ordinal regression method to predict the resulting quality rating based on the chemical inputs. The model resulted in an accuracy of 58%, with the most impactful features being volatile acidity, chlorides, sulphates, and alcohol as determined by their coefficients. Additional information and results are described in the analysis notebook. There's also a related non-technical blog post available on [Medium](https://neuralfiber0307.medium.com/whats-really-behind-the-quality-of-a-wine-ee904f83ac3d).
